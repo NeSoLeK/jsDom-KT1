@@ -1,0 +1,17 @@
+table{
+    width: 100%; 
+    color: white; 
+    border-spacing: 1px;
+    
+}
+td, td {
+    padding: 5px;
+}
+tr:nth-child(2n){
+    background: rgb(211, 211, 211); 
+    
+}
+tr:nth-child(2n-1){
+    background: rgb(186, 186, 186); 
+    
+}
